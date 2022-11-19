@@ -1,0 +1,14 @@
+#video-grid {
+  display: flex;
+  justify-content: center;
+
+}
+
+video {
+    height: 700px;
+    width: 700px;
+    
+}
+body {
+    color: black;
+}
